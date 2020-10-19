@@ -2,7 +2,7 @@
 
 ## Here are that I did to complete this project:
 - Create a local JSON data file
-    /Users/xin/makeSchool/int2_1/QuizApp/QuizApp
+    /Users/xin/Desktop/Screen Shot 2020-10-19 at 3.30.43 PM.png
 - Design UI using xcode storyboard
     - Table View
     - UITableViewCell
