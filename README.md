@@ -9,4 +9,6 @@
     - UITableViewCell
 - Added new UIViewController as pop up showing the user if they answer question correctly or not
     - Implemented modalViewController to modify pop ups
+    
+    <img width="795" alt="Screen Shot 2020-10-19 at 4 02 56 PM" src="https://user-images.githubusercontent.com/45300300/96505768-9b62d400-1224-11eb-9558-4cfb44cb8b9c.png">
 - Added StateManager to store and retreive values using UserDefaults
