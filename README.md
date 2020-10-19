@@ -1,3 +1,10 @@
-process log:
+### Hi there, I'm Xing  😕
 
-   - set up xcode project with classes and structs, Created custom protocol, so when the background thread comes back from fetching JSON data, it has a refrence to the viewController, so that notify the viewController and pass the data to it to display. 
+## Here are that I did to complete this project:
+- Create a local JSON data file
+- Design UI using xcode storyboard
+    - Table View
+    - UITableViewCell
+- Added new UIViewController as pop up showing the user if they answer question correctly or not
+    - Implemented modalViewController to modify pop ups
+- Added StateManager to store and retreive values using UserDefaults
