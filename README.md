@@ -1,8 +1,8 @@
 ### Hi there, I'm Xing  😕
 
 ## Here are that I did to complete this project:
-# - Create a local JSON data file
-
+ - Create a local JSON data file
+    
     <img width="714" alt="JSONdata" src="https://user-images.githubusercontent.com/45300300/96505608-5f2f7380-1224-11eb-891b-a30fa8ba95aa.png">
 # - Design UI using xcode storyboard
     - Table View
