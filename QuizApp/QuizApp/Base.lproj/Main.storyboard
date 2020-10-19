@@ -24,7 +24,7 @@
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ihz-lP-DAA">
                                         <rect key="frame" x="20" y="0.0" width="374" height="448"/>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="29"/>
                                         <color key="textColor" systemColor="systemBackgroundColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
@@ -137,7 +137,7 @@
                                             </button>
                                         </subviews>
                                         <constraints>
-                                            <constraint firstItem="Li2-63-Jrs" firstAttribute="width" secondItem="qU8-0I-Te4" secondAttribute="width" multiplier="0.196581" id="pgh-gj-U44"/>
+                                            <constraint firstItem="Li2-63-Jrs" firstAttribute="width" relation="greaterThanOrEqual" secondItem="qU8-0I-Te4" secondAttribute="width" multiplier="0.196581" id="pgh-gj-U44"/>
                                         </constraints>
                                     </stackView>
                                 </subviews>

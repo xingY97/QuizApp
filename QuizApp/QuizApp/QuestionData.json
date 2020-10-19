@@ -10,10 +10,19 @@
     
     {
         
-        "question": "What's the keyword for declaring a new constant",
+        "question": "What's the keyword for declaring a new constant?",
         "answers": ["constant","let", "con"],
         "correctAnswerIndex":1,
         "feedback":"let is the keyword use to declare a new constant."
+        
+    },
+    
+    {
+        
+        "question": "what is the capital of England?",
+        "answers": ["Sheffield","London", "Manchester", "Edinburgh"],
+        "correctAnswerIndex":1,
+        "feedback":"London is the capital of England."
         
     }
     
