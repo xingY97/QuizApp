@@ -2,8 +2,7 @@
 
 ## Here are that I did to complete this project:
 - Create a local JSON data file
-    /Users/xin/Desktop/Screen Shot 2020-10-19 at 3.30.43 PM.png
-- Design UI using xcode storyboard
+    - Design UI using xcode storyboard
     - Table View
     - UITableViewCell
 - Added new UIViewController as pop up showing the user if they answer question correctly or not
