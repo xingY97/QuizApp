@@ -2,7 +2,7 @@
 
 ## Here are that I did to complete this project:
 - Create a local JSON data file
-    ![](/image/JSONdata.png)
+    (/image/JSONdata.png)
 - Design UI using xcode storyboard
     - Table View
     - UITableViewCell
