@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Question {
+struct Question: Codable {
     
     var question:String?
     var answers:[String]? //there will be multiple choice answers, so set it as an array of string
